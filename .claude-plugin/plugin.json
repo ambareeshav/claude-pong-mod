@@ -1,0 +1,17 @@
+{
+  "name": "pong",
+  "version": "0.1.0",
+  "description": "Pong above the Claude Code prompt: rally against the AI paddle while Claude works. Plays while Claude works, pauses when the turn ends, keeps your best winning margin; zero tokens. Needs function hooks (early access) and an interactive terminal with a mouse.",
+  "author": {
+    "name": "Ambareesha Vittal"
+  },
+  "license": "MIT",
+  "keywords": [
+    "arcade",
+    "game",
+    "terminal",
+    "tui",
+    "pong",
+    "function-hooks"
+  ]
+}
