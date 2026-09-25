@@ -1,6 +1,6 @@
-# pong
+# Claude Code Pong Mod
 
-While Claude thinks, you can be losing at pong. Rally against an AI paddle right above the prompt, first to 7 — no context switch, no tokens spent, no excuse. The moment Claude's done, the ball freezes mid-air and the status line taps you on the shoulder.
+A pong game for Claude Code, built as a function-hooks mod. While Claude thinks, you can be losing at pong. Rally against an AI paddle right above the prompt, first to 7 — no context switch, no tokens spent, no excuse. The moment Claude's done, the ball freezes mid-air and the status line taps you on the shoulder.
 
 ## Install
 
